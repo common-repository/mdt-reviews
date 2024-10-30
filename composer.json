@@ -1,0 +1,10 @@
+{
+	"name": "mdt-reviews",
+	"description": "Registers Post Meta for Structured Data Reviews",
+	"homepage": "https://wordpress.org/plugins/mdt-reviews/",
+	"type": "wordpress-plugin",
+	"license": "GPL-2.0+",
+	"support": {
+		"forum": "https://wordpress.org/support/plugin/mdt-reviews"
+	}
+}
